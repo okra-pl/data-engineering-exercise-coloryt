@@ -1,0 +1,6 @@
+flask
+flask-restful
+lightgbm==3.2.1
+joblib
+folium
+geopandas
